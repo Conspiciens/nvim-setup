@@ -1,0 +1,5 @@
+~/.config/nvim/lua/jojo/core/..
+   colorscheme.lua
+   keymaps.lua
+   options.lua
+   pl
